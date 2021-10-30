@@ -34,7 +34,7 @@ education:
     - course: MSc in Computer Engineering
       institution: Cairo University
       year: 2016
-    - course: BSc of Science in Computer Engineering
+    - course: BSc in Computer Engineering
       institution: Cairo University
       year: 2014
 email: ghada.sokar@gmail.com
