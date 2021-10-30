@@ -29,7 +29,7 @@ organizations:
     url: https://www.tue.nl/en/
 education:
   courses:
-    - course: PhD in Computer Computer Science
+    - course: PhD in Computer Computer Science, 2019-present
       institution: Eindhoven University of Technology
       year: ""
     - course: MSc in Computer Engineering
