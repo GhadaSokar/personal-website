@@ -5,7 +5,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Ghada
+  - Ghada Sokar
 author_notes: []
 publication: In NeuroComputing Journal
 summary: ""
