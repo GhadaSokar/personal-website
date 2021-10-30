@@ -1,6 +1,6 @@
 ---
 abstract: ""
-slides: ""
+slides: CONTENT/SLIDES/1.PDF
 url_pdf: ""
 publication_types:
   - "1"
