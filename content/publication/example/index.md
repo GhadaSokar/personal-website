@@ -8,12 +8,10 @@ authors:
   - Ghada
 author_notes: []
 publication: In NeuroComputing Journal
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In NeuroComputing Journal
 url_source: ""
 url_video: ""
 title: "SpaceNet: Make Free Space For Continual Learning"
