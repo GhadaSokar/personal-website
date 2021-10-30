@@ -28,15 +28,15 @@ organizations:
     url: https://www.tue.nl/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Computer Science
+      institution: Eindhoven University of Technology
+      year: ""
+    - course: Master of Science in Computer Engineering
+      institution: Cairo University
+      year: 2016
+    - course: Bachelor of Science in Computer Engineering
+      institution: Cairo University
+      year: 2014
 email: ghada.sokar@gmail.com
 superuser: true
 highlight_name: true
