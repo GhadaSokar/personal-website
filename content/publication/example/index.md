@@ -6,14 +6,12 @@ publication_types:
   - "1"
 authors:
   - Ghada Sokar
-  - Decebal C. Mocanu
-  - Mykola Pechenizkiy
 author_notes: []
 publication: In NeuroComputing Journal
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In NeuroComputing Journal, 2021
+publication_short: In NeuroComputing Journal
 url_source: ""
 url_video: ""
 title: "SpaceNet: Make Free Space For Continual Learning"
@@ -25,7 +23,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00.000Z
+date: 2014-05-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
