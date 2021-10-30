@@ -1,7 +1,7 @@
 ---
 title: Ghada Sokar
 role: PhD Student
-avatar_filename: ghada.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Continual/Lifelong Learning
