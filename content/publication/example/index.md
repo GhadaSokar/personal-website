@@ -6,6 +6,8 @@ publication_types:
   - "1"
 authors:
   - Ghada Sokar
+  - Decebal C. Mocanu
+  - Mykola Pechenizkiy
 author_notes: []
 publication: In NeuroComputing Journal
 summary: ""
