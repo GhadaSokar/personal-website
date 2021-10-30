@@ -1,10 +1,10 @@
 ---
-abstract: Invited Speaker @ ContinualAI Meetup, January 2021
+abstract: 
 slides: example
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Invited Speaker @ ContinualAI Meetup, January 2021
 title: Rehearsal-Free continual learning
-location: "ContinualAI "
+location: "ContinualAI"
 date: 2021-10-30T16:55:05.961Z
 date_end: 2021-10-30T16:55:13.076Z
 all_day: false
@@ -12,23 +12,23 @@ event: Wowchemy Conference
 event_url: https://example.org
 featured: false
 authors: []
-url_video: ""
-url_slides: ""
+url_video: "https://www.youtube.com/watch?v=Mfo0OgMCSUY"
+url_slides: "uploads/SpaceNet_ContinualAI"
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  # street: 450 Serra Mall
+  # city: Stanford
+  # region: CA
+  # postcode: "94305"
+  # country: United States
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: Follow
+  #   url: https://twitter.com/georgecushen
 publishDate: 2021-10-30T16:53:14.759Z
 tags: []
 projects:
-  - example
+  # - example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
