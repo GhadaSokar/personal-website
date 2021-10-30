@@ -5,7 +5,7 @@ url_pdf: ""
 summary: Invited Speaker @ Google Brain, August 2021
 title: Dynamic sparse training for deep reinforcement learning
 location: #"ContinualAI"
-#date: #2021-10-30T16:55:05.961Z
+date: August 2021
 date_end: #2021-10-30T16:55:13.076Z
 all_day: false
 event: #Wowchemy Conference
@@ -13,7 +13,7 @@ event_url: #https://example.org
 featured: false
 authors: []
 url_video: 
-url_slides: #"uploads/SpaceNet_ContinualAI.pdf"
+url_slides: "uploads/DS_TD3.pdf"
 address:
   # street: 450 Serra Mall
   # city: Stanford
