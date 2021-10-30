@@ -1,7 +1,7 @@
 ---
 title: Ghada Sokar
 role: PhD Student
-avatar_filename: sokar_ghada_wi_po_vh_1067_phd.jpg
+avatar_filename: ghada.jpg
 bio: ""
 interests:
   - Continual/Lifelong Learning
@@ -31,10 +31,10 @@ education:
     - course: PhD in Computer Computer Science
       institution: Eindhoven University of Technology
       year: ""
-    - course: Master of Science in Computer Engineering
+    - course: MSc in Computer Engineering
       institution: Cairo University
       year: 2016
-    - course: Bachelor of Science in Computer Engineering
+    - course: BSc of Science in Computer Engineering
       institution: Cairo University
       year: 2014
 email: ghada.sokar@gmail.com
