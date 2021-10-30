@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2007.07617.pdf"
 publication_types:
   - "1"
 authors:
