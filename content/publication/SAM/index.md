@@ -13,7 +13,7 @@ publication: Autonomous Agents and Multiagent Systems
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: Autonomous Agents and Multiagent Systems
+publication_short: Autonomous Agents and Multiagent Systems (AAMAS)
 url_source: ""
 url_video: ""
 title: "Self-Attention Meta-Learner for Continual Learning"

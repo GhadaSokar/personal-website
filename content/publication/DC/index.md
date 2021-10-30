@@ -13,7 +13,7 @@ publication: International Joint Conference on Artificial Intelligence
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: International Joint Conference on Artificial Intelligence
+publication_short: International Joint Conference on Artificial Intelligence (IJCAI)
 url_source: ""
 url_video: ""
 title: "Continual Lifelong Learning for Intelligent Agents"
