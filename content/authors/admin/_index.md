@@ -42,7 +42,7 @@ email: ghada.sokar@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a PhD candidate at Eindhoven University of Technology, The Netherlands advised by Decebal Mocanu and Mykola [](https://people.utwente.nl/d.c.mocanu)Pechenizkiy.  
+I am a PhD candidate at Eindhoven University of Technology, The Netherlands. 
 
 I am currently interested in developing methods that enable deep neural networks to continually learn stream of tasks with changing distribution over time.  I am practicually interested in methods that address the Stability-Plasticity dilemma with constrained capacity models and limited/no access to previously seen data.  I believe this enables delevloping intelligent agents applicable to real-world applications where memory and computation constraints should be considered.
 
