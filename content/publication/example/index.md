@@ -1,23 +1,13 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
-slides: example
+abstract: ""
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
-  - Robert For
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: In *Wowchemy Conference*
+  - Ghada
+author_notes: []
+publication: In NeuroComputing Journal
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -26,19 +16,18 @@ url_project: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: "SpaceNet: Make Free Space For Continual Learning"
 doi: ""
-featured: true
+featured: false
 tags: []
-projects:
-  - example
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
