@@ -5,15 +5,15 @@ url_pdf: ""
 summary: Invited Speaker @ ContinualAI Meetup, January 2021
 title: Rehearsal-Free continual learning
 location: "ContinualAI"
-date: 2021-10-30T16:55:05.961Z
-date_end: 2021-10-30T16:55:13.076Z
+date: #2021-10-30T16:55:05.961Z
+date_end: #2021-10-30T16:55:13.076Z
 all_day: false
-event: Wowchemy Conference
-event_url: https://example.org
+event: #Wowchemy Conference
+event_url: #https://example.org
 featured: false
 authors: []
 url_video: "https://www.youtube.com/watch?v=Mfo0OgMCSUY"
-url_slides: "uploads/SpaceNet_ContinualAI"
+url_slides: "uploads/SpaceNet_ContinualAI.pdf"
 address:
   # street: 450 Serra Mall
   # city: Stanford
@@ -30,8 +30,8 @@ tags: []
 projects:
   # - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
-  focal_point: Right
+  # caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  # focal_point: Right
 url_code: ""
 ---
 
