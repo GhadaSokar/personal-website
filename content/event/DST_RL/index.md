@@ -3,9 +3,9 @@ abstract:
 #slides: example
 url_pdf: ""
 summary: Invited Speaker @ Google Brain, August 2021
-title: Rehearsal-Free continual learning
+title: Dynamic sparse training for deep reinforcement learning
 location: #"ContinualAI"
-date: #2021-10-30T16:55:05.961Z
+#date: #2021-10-30T16:55:05.961Z
 date_end: #2021-10-30T16:55:13.076Z
 all_day: false
 event: #Wowchemy Conference
