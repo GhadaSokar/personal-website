@@ -10,7 +10,7 @@ authors:
   - Mykola Pechenizkiy
 author_notes: []
 publication: In NeuroComputing Journal
-summary: ""
+summary: url_pdf='asdasd'
 url_dataset: ""
 url_project: ""
 publication_short: In NeuroComputing Journal
