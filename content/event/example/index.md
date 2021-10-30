@@ -1,6 +1,6 @@
 ---
 abstract: 
-slides: example
+#slides: example
 url_pdf: ""
 summary: Invited Speaker @ ContinualAI Meetup, January 2021
 title: Rehearsal-Free continual learning
