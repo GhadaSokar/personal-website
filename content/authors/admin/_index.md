@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:"g.a.z.n.sokar@tue.nl"
+    link: mailto:g.a.z.n.sokar@tue.nl
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/g_sokar
