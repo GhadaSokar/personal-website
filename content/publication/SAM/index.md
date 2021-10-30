@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0925231221001545"
+url_pdf: "https://arxiv.org/abs/2101.12136"
 publication_types:
   - "1"
 authors:
@@ -9,14 +9,14 @@ authors:
   - Decebal C. Mocanu
   - Mykola Pechenizkiy
 author_notes: []
-publication: NeuroComputing Journal
+publication: Autonomous Agents and Multiagent Systems
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: NeuroComputing Journal
+publication_short: Autonomous Agents and Multiagent Systems
 url_source: ""
 url_video: ""
-title: "SpaceNet: Make Free Space For Continual Learning"
+title: "Self-Attention Meta-Learner for Continual Learning"
 doi: ""
 featured: false
 tags: []
@@ -29,5 +29,5 @@ date: 2021-01-05T01:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: "https://github.com/GhadaSokar/SpaceNet"
+url_code: "https://github.com/GhadaSokar/Self-Attention-Meta-Learner-for-Continual-Learning"
 ---
