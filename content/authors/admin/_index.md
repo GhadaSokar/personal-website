@@ -7,6 +7,7 @@ interests:
   - Continual/Lifelong Learning
   - Sparse Neural Networks
   - Reinforcement Learning
+  - Feature Selection
   - Few-shot Learning
 social:
   - icon: envelope
@@ -25,12 +26,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/ghada-sokar-45699072/
 organizations:
-  - name: Eindhoven University of Technology
+  - name: Eindhoven University of Technology (TU/e)
     url: https://www.tue.nl/en/
 education:
   courses:
-    - course: PhD in Computer Computer Science, 2019-present
-      institution: Eindhoven University of Technology
+    - course: PhD in Computer Science, 2019-present
+      institution: TU/e, The Netherlands
       year: ""
     - course: MSc in Computer Engineering
       institution: Cairo University
@@ -42,7 +43,7 @@ email: ghada.sokar@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a PhD candidate at Eindhoven University of Technology, The Netherlands. 
+I am a PhD candidate and teaching assistant at TU/e, The Netherlands. 
 
 I am currently interested in developing methods that enable deep neural networks to continually learn stream of tasks with changing distribution over time.  I am practicually interested in methods that address the Stability-Plasticity dilemma with constrained capacity models and limited/no access to previously seen data.  I believe this enables developing intelligent agents applicable to real-world applications where memory and computation constraints should be considered.
 
